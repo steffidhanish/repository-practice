@@ -1,2 +1,3 @@
 var a=10
 console.log("this is a fun job")
+var b = 10
